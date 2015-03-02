@@ -1,0 +1,10 @@
+#clock { 
+    border: 1px #5af2c8;
+    background-image:  
+}
+.odd{ 
+background-color: #000; 
+}
+.even{
+    background-color: #EDA9FC; 
+}
